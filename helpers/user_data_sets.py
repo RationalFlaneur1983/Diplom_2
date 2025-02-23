@@ -2,7 +2,7 @@ user_data_sets = {
     'valid': {
         'description': 'Тест с валидными данными',
         'data': {
-            'email': 'test4_user_qa@example.com',
+            'email': 'test5_user_qa@example.com',
             'password': 'securep@$$word123',
             'name': 'alexander_the_not_so_great',
         }
